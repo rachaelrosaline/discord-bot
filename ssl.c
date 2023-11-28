@@ -3,6 +3,8 @@
 #include <netdb.h>
 #include <unistd.h>
 
+#include <netinet/in.h>
+
 #include <sys/socket.h>
 
 #include "bot.c"
